@@ -1,0 +1,16 @@
+import platform
+import tkinter as tk
+from tkinter import messagebox
+
+edition = platform.version()
+release = platform.release()
+system = platform.system()
+
+root = tk.Tk()
+root.title("Device Info")
+root.geometry("500x500")
+
+Label = tk.Label(root, text=f"{system} {release}\nVersion du noyeau: {edition}")
+Label.pack(padx=20)
+
+root.mainloop()
