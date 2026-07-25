@@ -1,10 +1,14 @@
 # Project BackUp
+
+Make back up of everything on your file (Desktop/Document/Music and more!) with only a few clicks!
+
 ## easy-to-use and free for all!
+No Special editions, this software is free-ware and will always be!
 
-## support 64/32Bit
-## Windows 7/8/8.1/10/11
+## support
+Windows 7/8/8.1/10/11
+64 and 32 Bit
 
-## dont force admin, only when needed
 ## Can be use offline!
 
-### Completed at 25%
+### Completed at: 25%
