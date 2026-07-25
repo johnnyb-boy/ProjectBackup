@@ -1,6 +1,6 @@
 # Project BackUp
 
-Make back up of everything on your file (Desktop/Document/Music and more!) with only a few clicks!
+Make back up of everything on your computer (Desktop/Document/Music and more!) with only a few clicks!
 
 ## easy-to-use and free for all!
 No Special editions, this software is free-ware and will always be!
