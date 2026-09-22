@@ -12,7 +12,7 @@ topshown = True
 
 globalbg = "#252525"
 globalfg = "#FFFFFF"
-ver = '0.0.2b'
+ver = '0.0.2b' # look 'old use' to see the V0.0.1b
 adminpriv = ''
 
 is_admin = ctypes.windll.shell32.IsUserAnAdmin()
