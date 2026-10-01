@@ -15,4 +15,4 @@ Windows 7/8/8.1/10/11
 
 ### Completed at: 25%
 
-## 23/09/2026 - Project BackUp got Transfered to Ultga
+## You're welcome to NOT compile anything from this repo until the project is ended (for your security) 
