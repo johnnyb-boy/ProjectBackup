@@ -15,7 +15,7 @@ def ui(w):
         tk.Button(root, text="Start Clone", command=lambda: clonesetup()).pack(padx=20, pady=20)
 
 def clonesetup():
-    clonestart(drive,"Desktop", "D:/")  # on saute le ui(-1) inutile, clear_window() est déjà dans clonestart
+    clonestart(drive,"Desktop", "D:/")
 
 def clonestart(letter,directory, dest):
     clear_window()
@@ -32,7 +32,7 @@ def clonestart(letter,directory, dest):
         elif os.path.isdir(chemin_complet):
             dirs.append(f"{element}/")
 
-    progress["maximum"] = len(files)  # plus réaliste pour un test visuel
+    progress["maximum"] = len(files)
     for i in range(progress["maximum"]):
         shutil.copy(f"{letter}/Users/{user}/{directory}/{files[i]}", dest)
         progress["value"] = i + 1
