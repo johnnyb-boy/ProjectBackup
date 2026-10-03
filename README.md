@@ -15,7 +15,7 @@ Windows 7/8/8.1/10/11
 
 ### Completed at: 25%
 
-## Extention used
+## Modules used
 - ``Tkinter``
 - ``getpass``
 - ``platform``
