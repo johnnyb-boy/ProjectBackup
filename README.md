@@ -15,4 +15,11 @@ Windows 7/8/8.1/10/11
 
 ### Completed at: 25%
 
+## Extention used
+- ``Tkinter``
+- ``getpass``
+- ``platform``
+- ``ctypes``
+- ``os``
+
 ## You're welcome to NOT compile anything from this repo until the project is ended (for your security) 
